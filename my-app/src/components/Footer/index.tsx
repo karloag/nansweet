@@ -56,7 +56,7 @@ const Footer = ({ t }: any) => {
               <Para>
                 {t(`Do you have any question? Feel free to reach out.`)}
               </Para>
-              <a href="mailto:l.qqbadze@gmail.com">
+              <a href="mailto:bakedlovehomemade@gmail.com">
                 <Chat>{t(`Let's Chat`)}</Chat>
               </a>
             </Col>
@@ -129,7 +129,7 @@ const Footer = ({ t }: any) => {
       <Extra>
         <Container border={true}>
           <Row
-            justify="space-between"
+            justify="space-around"
             align="middle"
             style={{ paddingTop: "3rem" }}
           >
@@ -138,23 +138,30 @@ const Footer = ({ t }: any) => {
                 <SvgIcon
                   src="logo.svg"
                   aria-label="homepage"
-                  width="500px"
-                  height="124px"
+                  width="101"
+                  height="64px"
                 />
               </LogoContainer>
             </NavLink>
             <FooterContainer>
-
-            <a href="https://www.buymeacoffee.com/adrinlol">
-                <img
-                  src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=adrinlol&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
-                  alt="Buy me a pizza"
-                />
-              </a>             
+            
+                        
               <SocialLink
                 href="https://twitter.com/Adrinlolx"
                 src="twitter.svg"
-              />                        
+              />    
+
+              <SocialLink
+                href="https://www.instagram.com/_nansweet_/"
+                src="instagram.svg"
+              />    
+
+              <SocialLink
+                href="https://www.facebook.com/nansweetbakery/"
+                src="facebook-app-logo.svg"
+              /> 
+
+
             </FooterContainer>
           </Row>
         </Container>

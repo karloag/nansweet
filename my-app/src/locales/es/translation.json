@@ -2,10 +2,11 @@
   "About": "Acerca de",
   "Products": "Productos",
   "Menu": "Menú",
+  "MENU":"Menú",
   "Product": "Producto",
   "Tell us everything": "Cuéntanos todo",
   "Contact": "Contacto",
-  "Do you have any question? Feel free to reach out.": "¿Tienes alguna pregunta? No dude en contactarnos",
+  "Do you have any question? Feel free to reach out.": "¿Tienes alguna pregunta? No dude en contactarnos.",
   "Let's Chat": "Charlemos",
   "Application Security": "Seguridad de la aplicación",
   "Software Principles": "Principios de software",
@@ -14,7 +15,7 @@
   "Address": "Habla A",
   "Press": "Prensa",
   "Careers & Culture": "Carreras & cultura",
-  "Language": "Language",
+  "Language": "Lenguaje",
   "Explore": "Explorar",
   "Learn more": "Más información",
   "Get started": "Comenzar",
@@ -22,10 +23,25 @@
   "Message" : "Mensaje",
   "Your Message": "Tu Mensaje",
   "Name" : "Nombre",
+  "Policy": "Politicas",
+  "Delivery":"Entregas",
+  "Company": "Compañia",
   "Your Name": "Tu nombre",
+  "Order! ":"Ordena!",
   "Email" : "Email",
+  "Delivering to":"Entregas en",
   "Your Email": "Tu correo electrónico",
   "Baked goods and candies made with love 💕 in Tijuana":"Repostería y dulces hechos con amor en Tijuana",
-  "You can place your order any day of the week": "Puedes hacer tu pedido cualquier día de la semana"
+  "You can place your order any day of the week": "Puedes hacer tu pedido cualquier día de la semana",
+  "WE ARE": "SOMOS",
+  "daughters, friends, sisters, we are women. We are together in the fight for the country we deserve!":"hijas, amgas, hermanas, somos mujere. Estamos juntas en la lucha por el país que necesitamos.",
+  "WHY NANSWEET?": "Por qué Nansweet?",
+  "Why Nansweet?": "Por qué Nansweet?",
+  "because its locally made of course":"Por qué todo esta hecho localmente desde luego",
+  "LOCALLY MADE?":"Hecho localmente?",
+  "Locally made?":"Hecho localmente?",
+
+  "and sustainably too":"y sustentablemente también"
+
 
 }
