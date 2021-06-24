@@ -32,10 +32,10 @@ export const ButtonWrapper = styled("div")`
   max-width: 100%;
 
   @media screen and (min-width: 1024px) {
-    max-width: 80%;
+    max-width: 180%;
   }
 
   button:last-child {
-    margin-left: 20px;
+    margin-left: 120px;
   }
 `;
