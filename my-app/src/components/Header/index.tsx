@@ -56,7 +56,7 @@ const Header = ({ t }: any) => {
             <a href="https://www.facebook.com/nansweetbakery/">
                 <img
                   src="https://img.buymeacoffee.com/button-api/?text=Ordenar&emoji=🛒&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
-                  alt="Buy me a pizza"
+                  alt="Buy me a pizz"
                 />
               </a> 
 

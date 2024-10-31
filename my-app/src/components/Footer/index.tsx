@@ -63,21 +63,11 @@ const Footer = ({ t }: any) => {
               </a>
             </Col>
 
-            <Col lg={8} md={8} sm={12} xs={12}>
-              <Title>{t("Company")}</Title>
-              <Large left="true" to="/">
-                {t("About")}
-              </Large>
-              <Large left="true" to="/">
-                {t("Blog")}
-              </Large>
-              <Large left="true" to="/">
-                {t("Press")}
-              </Large>
-              <Large left="true" to="/">
-                {t("Careers & Culture")}
-              </Large>
-            </Col>
+            
+
+
+
+
             <Col lg={6} md={6} sm={12} xs={12}>
               <Label htmlFor="select-lang">{t("Language")}</Label>
               <LanguageSwitchContainer>
