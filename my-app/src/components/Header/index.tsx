@@ -52,19 +52,15 @@ const Header = ({ t }: any) => {
         >
           <Span>
             
-
             <a href="https://www.facebook.com/nansweetbakery/">
                 <img
                   src="https://img.buymeacoffee.com/button-api/?text=Ordenar&emoji=🛒&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
-                  alt="Buy me a pizz"
+                  alt="Order"
                 />
               </a> 
 
           </Span>
         </CustomNavLinkSmall>
-        
-
-
       </>
     );
   };
@@ -74,7 +70,7 @@ const Header = ({ t }: any) => {
       <Container>
         <Row justify="space-between">
           <LogoContainer to="/" aria-label="homepage">
-            <SvgIcon src="logo.svg" width="120px" height="64px" />
+            <SvgIcon src="logo.svg" width="2  20px" height="64px" />
           </LogoContainer>
           <NotHidden>
             <MenuItem />

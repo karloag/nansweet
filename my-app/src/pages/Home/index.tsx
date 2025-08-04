@@ -17,7 +17,7 @@ const Home = () => {
       <ContentBlock
         type="right"
         title={IntroContent.title}
-        content={IntroContent.text}
+        content={IntroContent.text} 
         button={IntroContent.button}
         icon="logon.svg"
         id="intro"
