@@ -49,7 +49,6 @@ const Footer = ({ t }: any) => {
     <>
       <FooterSection>
         <Container>
-        
           <Row justify="space-between">
 
             <Col lg={10} md={10} sm={12} xs={12}>
@@ -62,11 +61,6 @@ const Footer = ({ t }: any) => {
                 <Chat>{t(`Let's Chat`)}</Chat>
               </a>
             </Col>
-
-            
-
-
-
 
             <Col lg={6} md={6} sm={12} xs={12}>
               <Label htmlFor="select-lang">{t("Language")}</Label>
@@ -110,26 +104,23 @@ const Footer = ({ t }: any) => {
               </LogoContainer>
             </NavLink>
             <FooterContainer>
-            
-                        
               <SocialLink
                 href="https://twitter.com/Adrinlolx"
                 src="twitter.svg"
               />    
-
               <SocialLink
                 href="https://www.instagram.com/_nansweet_/"
                 src="instagram.svg"
               />    
-
               <SocialLink
                 href="https://www.facebook.com/nansweetbakery/"
                 src="facebook-app-logo.svg"
               /> 
-
-
             </FooterContainer>
-          </Row>
+           </Row>
+           <div style={{ textAlign: "center", marginTop: "1rem", color: "#888" }}>
+            Made in Tijuana BC  &copy; 2021
+          </div>
         </Container>
       </Extra>
     </>
